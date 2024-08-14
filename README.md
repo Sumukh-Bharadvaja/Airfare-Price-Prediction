@@ -3,7 +3,7 @@
 ## Project Overview
 This project focuses on the dynamic pricing strategies employed by commercial airlines such as Qatar Airways, Etihad, and AirAsia. Utilizing big data technologies, we aim to understand and predict fare changes influenced by market demand and historical pricing data. The project utilizes Decision Trees and Random Forest algorithms to identify key factors affecting price variations and to validate the accuracy of our predictive models.
 
-[View Notebook!](./Team_7_AirFare_Price_Feature_Predicition.html)
+[View Notebook!](./Team_7_AirFare_Price_Feature_Predicition.html/)
 
 ## Objectives
 - **Data Analysis**: Employ advanced data analytics techniques on datasets comprising over 400,000 records.
